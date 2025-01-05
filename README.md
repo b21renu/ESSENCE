@@ -1,10 +1,10 @@
 # INTERNSHIP DETAILS
-Organization: Essence
-Intern Name: Renu Bojja
-Student ID: 1RVU22CSE129
-Duration: January 10, 2025 – April 3, 2025
+    Organization: Essence
+    Intern Name: Renu Bojja
+    Student ID: 1RVU22CSE129
+    Duration: January 10, 2025 – April 3, 2025
 
-#OVERVIEW
+# OVERVIEW
 This internship was all about diving into language models (LMs) and large language models (LLMs), exploring how they work, and figuring out how to fine-tune them for specific tasks. 
 
 # Key Learnings
